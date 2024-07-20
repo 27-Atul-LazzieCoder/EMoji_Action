@@ -47,35 +47,23 @@ Emojis are ideograms and smileys used in electronic messages and web pages. Emoj
 
 ## Results 📊
 
-### [Emojinator](https://github.com/akshaybahadur21/Emojinator)
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/emo.gif">
+### [Emojinator](https://github.com/)
+<img src="https://github.com/">
 
-### [Emojinator 2.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V2)
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/emo_v2.gif">
+### [Emojinator 2.0](https://github.com/)
+<img src="https://github.com/">
 
 
-### [Emojinator 3.0](https://github.com/akshaybahadur21/Emojinator/tree/master/Emojinator_V3)
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/emo_v3.gif" width=1000>
+### [Emojinator 3.0](https://github.com/)
+<img src="https://github.com/" width=1000>
 
-### [Rock Paper Scissor Lizard Spock](https://github.com/akshaybahadur21/Emojinator/tree/master/Rock_Paper_Scissor_Lizard_Spock)
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/RPS.gif">
+### [Rock Paper Scissor Lizard Spock](https://github.com/Rock_Paper_Scissor_Lizard_Spock)
+<img src="https://github.com/">
 
-### [EmoGram](https://github.com/akshaybahadur21/Emojinator/tree/master/EmojiGram)
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/EmoGram.gif">
+### [EmoGram](https://github.com/)
+<img src="https://github.com/">
 
 
 📌 Cite Us
 
-To cite this guide, use the below format:
-```
-@article{emojinator,
-author = {Bahadur, Akshay},
-journal = {https://github.com/akshaybahadur21/Emojinator},
-month = {01},
-title = {{Emojinator}},
-year = {2018}
-}
-```
-
-###### Made with ❤️ and 🦙 by Akshay Bahadur
 
